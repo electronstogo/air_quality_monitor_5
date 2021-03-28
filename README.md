@@ -11,12 +11,12 @@ Temperature [°C]
 Pressure [mbar]
 
 
-
 Components in use:
 
-Sensirion SGP40 sensor
-Bosch BME280 sensor
-0.96 inch OLED modul 
+Sensirion SGP40
+Bosch BME280
+0.96 inch OLED display
 Arduino Nano
 Wires with different profiles
+
 
