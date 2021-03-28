@@ -5,16 +5,18 @@ Simple version of an air quality monitor that shows a VOC index (by Sensirion), 
 
 Measured values:
 
-VOC index from Sensirion 
-Relative humidity [%] 
-Temperature [°C] 
-Pressure [mbar] 
+VOC index from Sensirion
+Relative humidity [%]
+Temperature [°C]
+Pressure [mbar]
+
 
 
 Components in use:
 
-Sensirion SGP40 sensor 
-Bosch BME280 sensor 
+Sensirion SGP40 sensor
+Bosch BME280 sensor
 0.96 inch OLED modul 
-Arduino Nano 
-Wires with different profiles 
+Arduino Nano
+Wires with different profiles
+
