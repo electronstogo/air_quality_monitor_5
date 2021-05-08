@@ -1,4 +1,4 @@
-# air_quality_monitor_5
+# air_quality_monitor_3
 
 Simple version of an air quality monitor that shows a VOC index (by Sensirion), humidity, temperature and pressure.
 
